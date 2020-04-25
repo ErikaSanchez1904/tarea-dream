@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=utf-8/>
+<title>Wiki-Memes</title>
+<style type="text/css">
+     .nav li a {
+		text-decoration:none;
+		}
+</style>
+</head>
+<body background="https://media.tumblr.com/tumblr_m46bhfnjyj1qbjsah.gif">
+  <nav>
+  <header><H3><BIG> WIKI-MEMES </BIG> </H3></header>
+  <h1 align="center" id="titulo">MEMES</h1>
+  <p>El término meme tiene sus orígenes en la teoría desarrollada por el científico Richard Dawkins en su libro de 1976, <b>"El gen egoísta"</b>. Allí sostiene que 
+  los memes se replican y circulan de igual manera que los genes, dándose la misma lógica que el proceso evolutivo. De hecho, según señala el genetista en un video, 
+  "los memes se esparcen por la cultura humana como los genes lo hacen por el patrimonio genético". 
+ </p>
+ <p> La palabra <b> "meme" </b> proviene del antiguo griego <b>"mimema"</b>, que se puede traducir como <b>"algo que se imita"</b>
+ </p>
+
+  <ul class="nav" id="indice">
+ <li> <a href="#titulo">Titulo</a></li>
+ <li> <a href="#meme1"> Meme de The Real Housewives of Beverly Hills </a> </li>
+ <li> <a href="#meme2"> Meme del Viejo lesbiano </a> </li>
+ <li> <a href="#meme3"> Meme del Sr. Rex </a> </li>
+ <li> <a href="#meme4"> Meme del Sr. Lomito </a> </li>
+ <li> <a href="#meme5"> Meme de Amaaaaaa Me Atoreeee... </a> </li>
+ </ul>
+
+  <selection>
+   <h2 id="meme1" align="center"> The Real Housewives of Beverly Hills </h2>
+   <img src="https://www.nacionrex.com/export/sites/debate/img/2019/08/04/meme_gato.jpg_1728651571.jpg" alt="Plantilla del meme" width="350px" height="200px" align="middle">
+    
+   <p> El meme apareció a mediados de mayo y consistió en dos imagenes. La foto de la mujer gritándole al gato pertenece al programa The Real Housewives of Beverly 
+   Hills, el cual es un reality show de TV.</p>
+   <img src="https://img.elcomercio.pe/files/listing_ec_flujo_xx/uploads/2019/08/29/5d68131e466be.jpeg" alt="Plantilla de la mujer" width="350px" height="200px" align="middle">
+   
+   <p>El gato, quien es el héroe de este meme, es <a href="https://www.instagram.com/smudge_lord/?utm_source=ig_embed"> smudge_lord </a>, un felino que de por sí ya 
+   era muy famoso desde hace tiempo y su principal característica es que odia las ensaladas, pues hay fotos en su cuenta de Instagram donde se puede ver cómo le 
+   desagradan todos los vegetales.</p> 
+   <img src="http://marketingdigital.news/wp-content/uploads/2019/09/meme-gato-en-la-mesa-instagram-marketingdigitalnews.png" alt="Plantilla de la mujer" width="350px" height="200px" align="meddle">
+
+   <p>volver al Indice <a href="#indice"><img src="https://image.flaticon.com/icons/png/512/60/60793.png" alt="Flecha de retorno" width="10px" height="10px"></a></p>
+   <aside><img src="C:\Users\Erika Sarai\Desktop\ANUNCIO 2.jpg" alt="Anuncio de pelicula Jurassic Park 3000"></aside>
+   </selection>
+   <selection>
+   <h2 id="meme2" align="center">Meme del Viejo lesbiano </h2>
+   <img src="https://media1.tenor.com/images/5b2d6690133e987c4c2b81842ab7d2c9/tenor.gif?itemid=12877570" alt="Gif del Viejo lesbiano" width="350px" height="200px" align="middle">
+   <p>Las imágenes de dinosaurios diciendo frases agresivas, como “cállese viejo lesbiano” tienen origen en un juego de Facebook llamado Jurassic Park Builder, basado en las películas de Jurassic Park.</p>
+   <img src="https://media.cdnp.elobservador.com.uy/112018/1541704922397.jpg?&cw=350" alt="Plantilla de Jurasic park" width="350px" height="200px" align="middle"> 
+   <p>Sin embargo la frase “cállese viejo lesbiano” tiene origen de una entrevista, en donde una chica es acosada por un señor mayor y, para zafarse de él, la chica dijo que era lesbiana, a lo que el señor 
+   contestó que él también era lesbiano, procediendo con el acoso. Momentos después, alguien le grita al señor: “¡cállese, viejo lesbiano!”.
+   
+   <p>volver al Indice <a href="#indice"><img src="https://image.flaticon.com/icons/png/512/60/60793.png" alt="Flecha de retorno" width="10px" height="10px"></a></p>
+   </selection>
+   <selection>
+   <h2 id="meme3" align="center">Meme del Sr. Rex </h2>
+   <img src="https://miro.medium.com/max/640/1*IgA2vP1M8OEzIQt1ku85nA.jpeg" alt="Plantilla del sr. rex :3" width="350px" height="200px" align="middle">
+   <p>T-Rex es un dinosaurio que intenta triunfar en el mundo del Stand Up con sus chistes malísimos… esperemos algún día pueda lograrlo.</p>
+   
+   <p>volver al Indice <a href="#indice"><img src="https://image.flaticon.com/icons/png/512/60/60793.png" alt="Flecha de retorno" width="10px" height="10px"></a></p>
+   </selection>
+   <selection>
+   <h2 id="meme4" align="center">Meme del Sr. Lomito </h2>
+   <img src="https://pbs.twimg.com/media/D1tfLagWoAIZyd6.jpg:large" alt="Plantilla de lomito UwU" width="350px" height="200px" align="middle">
+   <p>La foto del meme del Sr. Lomito fue sacada de un banco de imágenes y originalmente se le agrego el texto «eh mole kkkkkkkkk…». Este meme tuvo su origen en los últimos meses del 2018 en Brasil y se popularizó en America latina a inicios de 2019.</p>
+   <p>volver al Indice <a href="#indice"><img src="https://image.flaticon.com/icons/png/512/60/60793.png" alt="Flecha de retorno" width="10px" height="10px"></a></p>
+   </selection>
+   <selection>
+   <h2 id="meme5" align="center">Meme de Amaaaaaa Me Atoreeee...</h2>
+   <img src="https://i.ytimg.com/vi/BoOADeJ5x18/hqdefault.jpg" alt="imagen del video" width="350px" height="200px" align="middle">
+   <p>Este es un video de un muchacho cantando y bailando la cancion de la lindura mayor Kimberly Loaiza.<br>Ya que lo hace en modo parodia se cae de la cama y grita de una manera peculiar "Amaaa me atoree", gracias a que estan chistoso se volvio viral.</p>
+   <video src="C:\Users\Erika Sarai\Desktop\Anuncios/Amaa.mp4" controls loop width="640" height="480"></video>
+   <p>volver al Indice <a href="#indice"><img src="https://image.flaticon.com/icons/png/512/60/60793.png" alt="Flecha de retorno" width="10px" height="10px"></a></p>
+   <aside><img src="C:\Users\Erika Sarai\Desktop\Anuncio1.jpg" alt="Anuncio contra el maltrato animal"></aside>
+   </selection>
+   <footer>
+  <table>
+      <tr> 
+         <td> Bliografia: <ul> 
+                            <li> Meme 1=<a href="https://www.nacionrex.com/memes/meme-gato-mesa-mujer-gritando-ensalada-explicacion-origen-20190804-0017.html"> https://www.nacionrex.com/memes/meme-gato-mesa-mujer-gritando-ensalada-explicacion-origen-20190804-0017.html</a> </li>
+                            <li> Meme 2=<a href="https://www.nacionrex.com/memes/viejo-lesbiano-origen-del-meme-callese-significado-20181018-0028.html"> https://www.nacionrex.com/memes/viejo-lesbiano-origen-del-meme-callese-significado-20181018-0028.html</a></li>
+                            <li> ¿Qué es un Meme?= <a href="https://www.infotechnology.com/culturageek/Que-es-un-meme-y-cual-es-su-origen-20131111-0002.html"> https://www.infotechnology.com/culturageek/Que-es-un-meme-y-cual-es-su-origen-20131111-0002.html</a></li>
+                          </ul>
+        </td>
+         <td>Para mas información, llamar al: 33-15-60-98-45 ó al: 33-45-67-89-70.
+        </td>
+     </tr>   
+</table>
+</footer>
+</nav>
+</body>
+</html>
